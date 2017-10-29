@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="no_internet">Отсутствует интернет соединение</string>
+    <string name="edit_user">Редактировать пользователя</string>
+    <string name="create_user">Создать пользователя</string>
+    <string name="firstname_error">Имя не должно быть пустым</string>
+    <string name="lastname_error">Фамилия не должна быть пустой</string>
+    <string name="email_error">Email должен быть корректным</string>
+    <string name="users">Пользователи</string>
+    
+
+</resources>
